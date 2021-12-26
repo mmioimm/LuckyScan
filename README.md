@@ -10,7 +10,9 @@ script for port scan
 
 
 usage: 
+
         -h 参数指定ip地址段
+        
         -s 参数指定要扫描的服务名称
 
 ![image](https://user-images.githubusercontent.com/19258899/147410395-db85a9cb-b6f5-4800-9c06-68bacb9ad75b.png)
