@@ -1,0 +1,20 @@
+MySql:
+  Port: 3306
+  UserDic: "./dic/mysql/user.txt"
+  PassDic: "./dic/mysql/pass.txt"
+MsSql:
+  Port: 1433
+  UserDic: "./dic/mssql/user.txt"
+  PassDic: "./dic/mssql/pass.txt"
+Smb:
+  Port: 445
+  UserDic: "./dic/smb/user.txt"
+  PassDic: "./dic/smb/pass.txt"
+Ssh:
+  Port: 22
+  UserDic: "./dic/ssh/user.txt"
+  PassDic: "./dic/ssh/pass.txt"
+Ftp:
+  Port: 21
+  UserDic: "./dic/ftp/user.txt"
+  PassDic: "./dic/ftp/pass.txt"
